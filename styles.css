@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+    color: white;
+}
+
+section {
+    margin: 200px;
+    margin-left: 450px;
+    border: 5px darkblue solid;
+    padding: 50px;
+    width: 300px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    border-radius: 50%;
+    border: 2px white solid;
+    padding: 10px;
+    color: white;
+    background-color:darkblue;
+}
